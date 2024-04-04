@@ -64,7 +64,7 @@ class Historico:
         pass
 
     #TODO: implement using append method, probably some 
-            # information about the transaction may need to be acessed later, so maybe better to use dictionaries
+            # information about the transaction may need to be acessed later, so it maybe better to use dictionaries to store this information
     def adicionar_transacoes(self, transacao):
         pass
 
